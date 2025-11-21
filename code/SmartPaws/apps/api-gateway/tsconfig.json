@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    /* Language & Environment */
+    "target": "ES2020",                        
+    "lib": ["ES2020"],                         
+
+    /* Module System */
+    "module": "commonjs",                      
+    "esModuleInterop": true,                   
+    "allowSyntheticDefaultImports": true,      
+    "resolveJsonModule": true,                 
+
+    /* Output */
+    "outDir": "dist",                          
+    "rootDir": "src",                          
+
+    /* Strictness */
+    "strict": true,                            
+    "skipLibCheck": true,                      
+
+    /* Node.js specific */
+    "moduleResolution": "node",                
+    "types": ["node"],                         
+
+    /* Debugging */
+    "sourceMap": true                          
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

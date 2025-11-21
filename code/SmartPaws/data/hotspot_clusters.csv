@@ -1,0 +1,6 @@
+Cluster_ID,Count,Avg_Age,Most_Common_Type,Most_Common_Breed,Most_Common_Season,Percentage
+0,21647,1 year,Cat,Domestic Shorthair Mix,Summer,31.30712715492306
+1,3669,2 years,Cat,Domestic Shorthair,Summer,5.306317250954529
+2,37213,2 years,Dog,Rare_Breed,Fall,53.819564965868324
+3,6066,1 year,Other,Bat Mix,Spring,8.772995487677889
+4,549,2 years,Dog,Labrador Retriever,Fall,0.7939951405761888

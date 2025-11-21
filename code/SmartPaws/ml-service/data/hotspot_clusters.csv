@@ -1,0 +1,6 @@
+Cluster_ID,Count,Avg_Age,Most_Common_Type,Most_Common_Breed,Most_Common_Season,Percentage
+0,118,1 year,Dog,Miniature Schnauzer Mix,Fall,0.5327794834748059
+1,11992,2 years,Dog,Rare_Breed,Fall,54.144843778219254
+2,8122,1 year,Cat,Domestic Shorthair Mix,Summer,36.67148275239299
+3,1751,1 year,Other,Bat Mix,Spring,7.905905725121907
+4,165,1 year,Other,Raccoon Mix,Spring,0.7449882607910421

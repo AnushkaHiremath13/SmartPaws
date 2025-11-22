@@ -119,20 +119,6 @@ git add . && git commit -m "Add feature"
 git push -u origin feature/your-feature
 ```
 
-Repository notes & git hygiene
-
-- A large file was removed from history in this repository to keep it small and pushable to GitHub.
-- Add these `.gitignore` entries to avoid committing sensitive or bulky files:
-
-```text
-data/mini/
-*.zip
-uploads/
-.env
-.venv/
-```
-
-
 Acknowledgments
 
 - Built with Node.js, Express, React, MongoDB, and Python for ML.
